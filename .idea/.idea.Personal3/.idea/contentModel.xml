@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jacky\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jacky\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Personal3.-225869146.00" t="ExcludeRecursive" />
+    <e p="C:\Users\jacky\Documents\Unity Projects\Personal3" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="DrawIfPropertyDrawer.cs" t="Include" />
+        </e>
+        <e p="Eu4" t="Include">
+          <e p="ambient_object.txt" t="Include" />
+          <e p="area.txt" t="Include" />
+          <e p="climate.txt" t="Include" />
+          <e p="continent.txt" t="Include" />
+          <e p="lakes" t="Include">
+            <e p="00_lakes.txt" t="Include" />
+          </e>
+          <e p="positions.txt" t="Include" />
+          <e p="provincegroup.txt" t="Include" />
+          <e p="random" t="Include">
+            <e p="RandomLakeNames.txt" t="Include" />
+            <e p="RandomLandNames.txt" t="Include" />
+            <e p="RandomSeaNames.txt" t="Include" />
+            <e p="RNWScenarios.txt" t="Include" />
+            <e p="tiles" t="Include">
+              <e p="johan1.txt" t="Include" />
+              <e p="tile0.txt" t="Include" />
+              <e p="tile2.txt" t="Include" />
+              <e p="tile3.txt" t="Include" />
+              <e p="tile4.txt" t="Include" />
+              <e p="tile5.txt" t="Include" />
+              <e p="tiledanubian1.txt" t="Include" />
+              <e p="tiledanubian10.txt" t="Include" />
+              <e p="tiledanubian11.txt" t="Include" />
+              <e p="tiledanubian12.txt" t="Include" />
+              <e p="tiledanubian2.txt" t="Include" />
+              <e p="tiledanubian3.txt" t="Include" />
+              <e p="tiledanubian4.txt" t="Include" />
+              <e p="tiledanubian5.txt" t="Include" />
+              <e p="tiledanubian6.txt" t="Include" />
+              <e p="tiledanubian7.txt" t="Include" />
+              <e p="tiledanubian8.txt" t="Include" />
+              <e p="tiledanubian9.txt" t="Include" />
+              <e p="tileelmorte.txt" t="Include" />
+              <e p="tileelmorte2.txt" t="Include" />
+              <e p="tileelzephor1.txt" t="Include" />
+              <e p="tileelzephor2.txt" t="Include" />
+              <e p="tileelzephor3.txt" t="Include" />
+              <e p="tilefarthestindia.txt" t="Include" />
+              <e p="tilefryza.txt" t="Include" />
+              <e p="tilefryzb.txt" t="Include" />
+              <e p="tileFryzB2.txt" t="Include" />
+              <e p="tilefryzC.txt" t="Include" />
+              <e p="tilefryzC2.txt" t="Include" />
+              <e p="tileFryzD.txt" t="Include" />
+              <e p="tilefryzE.txt" t="Include" />
+              <e p="tileFryzF.txt" t="Include" />
+              <e p="tilemef1.txt" t="Include" />
+              <e p="tilemef2.txt" t="Include" />
+              <e p="tileofa1.txt" t="Include" />
+              <e p="tileofa10.txt" t="Include" />
+              <e p="tileofa11.txt" t="Include" />
+              <e p="tileofa2.txt" t="Include" />
+              <e p="tileofa3.txt" t="Include" />
+              <e p="tileofa4.txt" t="Include" />
+              <e p="tileofa5.txt" t="Include" />
+              <e p="tileofa6.txt" t="Include" />
+              <e p="tileofa7.txt" t="Include" />
+              <e p="tileofa8.txt" t="Include" />
+              <e p="tileoltner1.txt" t="Include" />
+              <e p="tileoltner10.txt" t="Include" />
+              <e p="tileoltner11.txt" t="Include" />
+              <e p="tileoltner12.txt" t="Include" />
+              <e p="tileoltner13.txt" t="Include" />
+              <e p="tileoltner14.txt" t="Include" />
+              <e p="tileoltner15.txt" t="Include" />
+              <e p="tileoltner16.txt" t="Include" />
+              <e p="tileoltner17.txt" t="Include" />
+              <e p="tileoltner18.txt" t="Include" />
+              <e p="tileoltner19.txt" t="Include" />
+              <e p="tileoltner2.txt" t="Include" />
+              <e p="tileoltner20.txt" t="Include" />
+              <e p="tileoltner21.txt" t="Include" />
+              <e p="tileoltner22.txt" t="Include" />
+              <e p="tileoltner23.txt" t="Include" />
+              <e p="tileoltner24.txt" t="Include" />
+              <e p="tileoltner25.txt" t="Include" />
+              <e p="tileoltner26.txt" t="Include" />
+              <e p="tileoltner27.txt" t="Include" />
+              <e p="tileoltner28.txt" t="Include" />
+              <e p="tileoltner29.txt" t="Include" />
+              <e p="tileoltner3.txt" t="Include" />
+              <e p="tileoltner30.txt" t="Include" />
+              <e p="tileoltner31.txt" t="Include" />
+              <e p="tileoltner4.txt" t="Include" />
+              <e p="tileoltner5.txt" t="Include" />
+              <e p="tileoltner6.txt" t="Include" />
+              <e p="tileoltner7.txt" t="Include" />
+              <e p="tileoltner8.txt" t="Include" />
+              <e p="tileoltner9.txt" t="Include" />
+              <e p="tileparadox.txt" t="Include" />
+              <e p="tilepoh1.txt" t="Include" />
+              <e p="tilepoh10.txt" t="Include" />
+              <e p="tilepoh11.txt" t="Include" />
+              <e p="tilepoh12.txt" t="Include" />
+              <e p="tilepoh13.txt" t="Include" />
+              <e p="tilepoh14.txt" t="Include" />
+              <e p="tilepoh15.txt" t="Include" />
+              <e p="tilepoh16.txt" t="Include" />
+              <e p="tilepoh17.txt" t="Include" />
+              <e p="tilepoh18.txt" t="Include" />
+              <e p="tilepoh19.txt" t="Include" />
+              <e p="tilepoh2.txt" t="Include" />
+              <e p="tilepoh20.txt" t="Include" />
+              <e p="tilepoh21.txt" t="Include" />
+              <e p="tilepoh22.txt" t="Include" />
+              <e p="tilepoh23.txt" t="Include" />
+              <e p="tilepoh24.txt" t="Include" />
+              <e p="tilepoh25.txt" t="Include" />
+              <e p="tilepoh26.txt" t="Include" />
+              <e p="tilepoh27.txt" t="Include" />
+              <e p="tilepoh28.txt" t="Include" />
+              <e p="tilepoh29.txt" t="Include" />
+              <e p="tilepoh3.txt" t="Include" />
+              <e p="tilepoh30.txt" t="Include" />
+              <e p="tilepoh31.txt" t="Include" />
+              <e p="tilepoh32.txt" t="Include" />
+              <e p="tilepoh33.txt" t="Include" />
+              <e p="tilepoh34.txt" t="Include" />
+              <e p="tilepoh35.txt" t="Include" />
+              <e p="tilepoh36.txt" t="Include" />
+              <e p="tilepoh37.txt" t="Include" />
+              <e p="tilepoh38.txt" t="Include" />
+              <e p="tilepoh39.txt" t="Include" />
+              <e p="tilepoh4.txt" t="Include" />
+              <e p="tilepoh40.txt" t="Include" />
+              <e p="tilepoh41.txt" t="Include" />
+              <e p="tilepoh42.txt" t="Include" />
+              <e p="tilepoh43.txt" t="Include" />
+              <e p="tilepoh44.txt" t="Include" />
+              <e p="tilepoh45.txt" t="Include" />
+              <e p="tilepoh46.txt" t="Include" />
+              <e p="tilepoh47.txt" t="Include" />
+              <e p="tilepoh48.txt" t="Include" />
+              <e p="tilepoh49.txt" t="Include" />
+              <e p="tilepoh5.txt" t="Include" />
+              <e p="tilepoh50.txt" t="Include" />
+              <e p="tilepoh6.txt" t="Include" />
+              <e p="tilepoh7.txt" t="Include" />
+              <e p="tilepoh8.txt" t="Include" />
+              <e p="tilepoh9.txt" t="Include" />
+              <e p="water1.txt" t="Include" />
+              <e p="water2.txt" t="Include" />
+              <e p="water3.txt" t="Include" />
+            </e>
+          </e>
+          <e p="region.txt" t="Include" />
+          <e p="seasons.txt" t="Include" />
+          <e p="superregion.txt" t="Include" />
+          <e p="terrain.txt" t="Include" />
+          <e p="trade_winds.txt" t="Include" />
+        </e>
+        <e p="Fonts" t="Include">
+          <e p="LICENSE.txt" t="Include" />
+        </e>
+        <e p="Google Fonts" t="Include">
+          <e p="Font" t="Include">
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+        </e>
+        <e p="HLSL" t="Include">
+          <e p="DirectSpecular.hlsl" t="Include" />
+          <e p="MainLight.hlsl" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Components" t="Include">
+            <e p="Arrow.cs" t="Include" />
+            <e p="Chunk Components" t="Include">
+              <e p="AssignmentSlots.cs" t="Include" />
+              <e p="UnitCount.cs" t="Include" />
+            </e>
+            <e p="DragIndicatorPrefab.cs" t="Include" />
+            <e p="DyingUnit.cs" t="Include" />
+            <e p="FormationData.cs" t="Include" />
+            <e p="PositionHash.cs" t="Include" />
+            <e p="RotationAuthoring.cs" t="Include" />
+            <e p="RotationSpeed.cs" t="Include" />
+            <e p="SelectedFormationSharedComponent.cs" t="Include" />
+            <e p="Tags" t="Include">
+              <e p="C_DragIndicatorTag.cs" t="Include" />
+              <e p="C_SelectedIndicatorTag.cs" t="Include" />
+              <e p="C_SelectedTag.cs" t="Include" />
+              <e p="UnitTag.cs" t="Include" />
+            </e>
+            <e p="TargetPosition.cs" t="Include" />
+            <e p="TargetPositionAuthoring.cs" t="Include" />
+            <e p="Unit Attributes" t="Include">
+              <e p="Health.cs" t="Include" />
+            </e>
+            <e p="Velocity.cs" t="Include" />
+          </e>
+          <e p="Custom Attributes" t="Include">
+            <e p="DrawIfAttribute.cs" t="Include" />
+          </e>
+          <e p="Debug" t="Include">
+            <e p="DebugCubeRotate.cs" t="Include" />
+            <e p="DebugSpawner.cs" t="Include" />
+          </e>
+          <e p="GameObject" t="Include">
+            <e p="CameraController.cs" t="Include" />
+            <e p="DebugEcsSpawner.cs" t="Include" />
+            <e p="FormationSpawner.cs" t="Include" />
+            <e p="GameController.cs" t="Include" />
+          </e>
+          <e p="KeyframeTextureBaker.cs" t="Include" />
+          <e p="LodData.cs" t="Include" />
+          <e p="MapGeneratorEditor.cs" t="Include" />
+          <e p="Scriptable Objects" t="Include">
+            <e p="MapGeneratorSettings.cs" t="Include" />
+            <e p="TextureScripableObject.cs" t="Include" />
+          </e>
+          <e p="Settings" t="Include">
+            <e p="SimulationSettings.cs" t="Include" />
+          </e>
+          <e p="SpatialHashHelper.cs" t="Include" />
+          <e p="Systems" t="Include">
+            <e p="Formations" t="Include">
+              <e p="AlignWithLeaderSystem.cs" t="Include" />
+              <e p="OrbFormationSystem.cs" t="Include" />
+              <e p="TestudoFormationSystem.cs" t="Include" />
+              <e p="WedgeFormationSystem.cs" t="Include" />
+            </e>
+            <e p="FormationSlotAssignmentSystem.cs" t="Include" />
+            <e p="MapGeneratorSystem.cs" t="Include" />
+            <e p="MoveSystem.cs" t="Include" />
+            <e p="RotationSystem.cs" t="Include" />
+            <e p="SteeringSystem.cs" t="Include" />
+            <e p="UnitDragMoveSystem.cs" t="Include" />
+            <e p="UnitMovementPreparationSystem.cs" t="Include" />
+            <e p="UnitMovementSystem.cs" t="Include" />
+            <e p="UnitSelectionPrepSystem.cs" t="Include" />
+            <e p="UnitSelectSystem.cs" t="Include" />
+            <e p="Utils.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+        <e p="UI" t="Include">
+          <e p="UnitCards.uss" t="Include" />
+          <e p="UnitCards.uxml" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Personal3.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,51 @@
+.background {
+    height: 55%;
+    width: 18%;
+    left: 81%;
+    top: 44%;
+    background-color: rgba(0, 0, 0, 0.78);
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.text-field {
+    -unity-font: url('/Assets/Fonts/Roboto-Thin.ttf');
+    color: rgb(255, 255, 255);
+    -unity-text-align: upper-center;
+}
+
+.toggleOption .unity-label {
+    -unity-font: url('/Assets/Google Fonts/Font/Roboto-Thin.ttf');
+    font-size: 100%;
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+}
+
+.toggleOption {
+    -unity-font: url('/Assets/Google Fonts/Font/Roboto-Light.ttf');
+    height: 25px;
+    margin-left: 10%;
+}
+
+.toggleOption .unity-toggle__checkmark {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    background-image: none;
+    background-color: rgb(255, 255, 255);
+    width: 15px;
+    height: 15px;
+}
+
+.toggleOption > VisualElement:hover > .unity-toggle__checkmark {
+    background-color: rgb(229, 229, 229);
+    background-image: none;
+}
+
+.toggleOption > VisualElement:checked > .unity-toggle__checkmark {
+    background-color: rgb(0, 255, 68);
+    background-image: none;
+}

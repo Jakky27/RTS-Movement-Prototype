@@ -1,0 +1,45 @@
+// Each #kernel tells which function to compile; you can have many kernels
+#pragma kernel CSMain
+
+/// CONSTANTS ////
+
+// Create a RenderTexture with enableRandomWrite flag and set it
+// with cs.SetTexture
+RWTexture2D<float4> Result;
+
+float _CellSize;
+
+// List of all unit positions
+
+
+// List of all unit velocities
+
+
+// List of all goal positions
+
+
+// Weight parameter that indicates movement aggressiveness 
+
+
+/// OUTPUTS ///
+
+// Density graph
+
+// Velocity graph
+
+// Speed map (anisotropic, one for each direction)
+
+// Pre-computed Cost map (anisotropic, one for each direction)
+
+
+/// TEXTURES FOR DEBUG ///
+
+[numthreads(8,8,1)]
+void CSMain (uint3 id : SV_DispatchThreadID)
+{
+    // TODO: insert actual code here!
+
+    Result[id.xy] = float4(id.x & id.y, (id.x & 15)/15.0, (id.y & 15)/15.0, 0.0);
+
+    
+}

@@ -1,0 +1,6 @@
+.unitCard {
+    -unity-font: url('/Assets/Fonts/Roboto-Bold.ttf');
+    color: rgba(9, 9, 9, 0.78);
+    display: flex;
+    height: 100%;
+}

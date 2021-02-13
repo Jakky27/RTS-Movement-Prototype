@@ -1,0 +1,12 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="Developer_Panel.uss" />
+    <ui:VisualElement name="Background" class="background">
+        <ui:Label text="Debug Tools" display-tooltip-when-elided="true" name="Title" class="text-field" style="font-size: 22%; margin-bottom: 15px; margin-top: 15px; -unity-font-style: bold;" />
+        <ui:ListView focusable="true" />
+        <ui:Toggle name="ShowCellGridToggle" text="Show Cell Grid" focusable="false" class="toggleOption" />
+        <ui:Toggle name="ShowBlockedCellsToggle" text="Show Blocked Cells&#10;" focusable="false" class="toggleOption" />
+        <ui:Toggle name="ShowRegionGridToggle" text="Show Region Grid" focusable="false" class="toggleOption" />
+        <ui:Toggle name="ShowRegionEdgesToggle" text="Show Region Edges&#10;" focusable="false" class="toggleOption" />
+        <ui:Toggle name="ShowAdjacentRegionsToggle" text="Show Adjacent Regions" focusable="false" class="toggleOption" />
+    </ui:VisualElement>
+</ui:UXML>

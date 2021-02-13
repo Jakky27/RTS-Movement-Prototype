@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26c2cabb676b1fe4282b80584bdccc67, type: 3}
+  m_Name: Roman Unit Data
+  m_EditorClassIdentifier: 
+  BaseMorale: 100
+  Health: 100
+  MeleeAttackSkill: 50
+  MeleeDamage: 25
+  MeleeDefenseSkill: 15
+  Armor: 15
+  Speed: 1
+  RotationSpeed: 0
+  aabb:
+    Center:
+      x: 0
+      y: 0.875
+      z: 0
+    Extents:
+      x: 0.3
+      y: 1
+      z: 0.3
+  Size: 1
